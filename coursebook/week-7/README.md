@@ -12,7 +12,7 @@
 ### Day 1
 
 - 09:00 - 10:00 
-  -- whiteboard walkthrough with introduction to the topic of relational databases and SQL
+  -- [intro to databases](https://github.com/foundersandcoders/intro-to-databases)
 
 - 10:00 - 12:00 
   -- [installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md)
